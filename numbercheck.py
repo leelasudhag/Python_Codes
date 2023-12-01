@@ -1,4 +1,5 @@
-given a number x = 5 and y = 10. take a number as input and check if the number is in between x, y.
+# given a number x = 5 and y = 10.
+# take a number as input and check if the number is in between x, y.
 
 input_number = int(input())
 print("given input number is", input_number)
