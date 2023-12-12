@@ -1,3 +1,3 @@
-x = ['tesla', 'Accord', 'Civic']
+x = 'Accord'
 for i in x:
     print(i)
